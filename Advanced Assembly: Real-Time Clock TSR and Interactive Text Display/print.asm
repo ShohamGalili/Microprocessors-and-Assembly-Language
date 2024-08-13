@@ -1,4 +1,3 @@
-;Hadas Yosefzada 213486764
 ;Shoham Galili 208010785
 
 .model small
